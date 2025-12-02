@@ -1,5 +1,6 @@
 # Virtual environments / env files
 .env
+.env.example
 .venv/
 venv/
 env/
