@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 564694f0ebcab424904b4ae32d3dfc6a9338d1ec Sparsha Bindu B S <sparshabsbindu@gmail.com> 1764670423 +0530	commit (initial): changes
+564694f0ebcab424904b4ae32d3dfc6a9338d1ec 5f353e0f453ed9e06b9b1ab861de53a2d4126f28 Sparsha Bindu B S <sparshabsbindu@gmail.com> 1764670543 +0530	commit: changes
+5f353e0f453ed9e06b9b1ab861de53a2d4126f28 7257ffaeecd3cc21710fe0dd0377491cb59904ac Sparsha Bindu B S <sparshabsbindu@gmail.com> 1764749245 +0530	commit: added cicd pipeline scripts
+7257ffaeecd3cc21710fe0dd0377491cb59904ac b772c7e7fbee9c77d7668a71d5cba4c41b4af6ec Sparsha Bindu B S <sparshabsbindu@gmail.com> 1764749620 +0530	commit (amend): added cicd pipeline scripts
+b772c7e7fbee9c77d7668a71d5cba4c41b4af6ec 6e5deaecc7747948ae661cc2bd2ae23b2625f73c Sparsha Bindu B S <sparshabsbindu@gmail.com> 1764750018 +0530	commit: Remove env files from repo and add to .gitignore
